@@ -34,7 +34,7 @@ Great for learning front-end web development concepts and UI design!
 
 ## 📸 Demo
 
-![Sneaker Store Screenshot](screenshot.png)
+![Sneaker Store Screenshot](Nike-Store-Screenshot.png)
 
 ## 🚀 Getting Started
 
